@@ -6,7 +6,9 @@ const toppings = ['Mushrooms ', 'Tomatoes', 'Eggs', 'Chili', 'Lettuce', 'Avocado
 TASK 1 🚀
 // The customer would like to see the topping options, console log out each of the toppings one by one in the array above 
 */
-
+for ([i] in toppings) {
+    console.log(toppings[i]);
+}
 
 /*
 TASK 2 🚀
